@@ -1,0 +1,23 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-image: url(home.jpg);
+    background-size: cover;
+}
+.top{
+    background-image: url(home.jpg);
+}
+h1{
+    background-color: teal;
+    padding: 2%;
+    color: white;
+    border: 10px solid teal;
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+    color: cadetblue;
+    font-size: 30px;
+}
+a:hover{
+color: gray;
+}

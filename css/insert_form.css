@@ -1,0 +1,13 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-image: url(form.jpg);
+    background-size: cover;
+}
+#button{
+    background-color: teal;
+    color: white;
+    padding: 10px 30px;  
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
